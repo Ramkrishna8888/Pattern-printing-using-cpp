@@ -3,6 +3,7 @@ AAA
 BBB
 CCC
 */
+// second approach
 #include<iostream>
 using namespace std;
 int main()
